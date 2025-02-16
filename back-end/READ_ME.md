@@ -85,7 +85,7 @@ sudo systemctl status sphynx
 │   ├── zip_routes.py     # Folder ZIP download
 │   ├── stats_routes.py   # API statistics
 │── check_api.sh          # API testing script
-│── sphynx.service        # Systemd service file
+│── sphynx.service        # Systemd service file, copy for archiving purposes
 ```
 
 ---
