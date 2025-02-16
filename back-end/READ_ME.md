@@ -1,5 +1,5 @@
 
-# Sphynx File Server
+# Sphynx Backend Setup
 
 You will need an **Ubuntu Server** in your local network for these installation steps.
 Sphynx is a **self-hosted file server application** that provides a **REST API** for managing files on an **Ubuntu server with Flask**.  
