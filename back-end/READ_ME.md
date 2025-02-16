@@ -1,6 +1,6 @@
 ---
 
-### **📜 README.md for backend**
+### ** README.md for backend**
 ```md
 # Sphynx File Server
 
