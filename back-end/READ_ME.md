@@ -1,6 +1,6 @@
 ---
 ### ** README.md for backend**
-```md
+```
 # Sphynx File Server
 
 You will need an **Ubuntu Server** in your local network for these installation steps.
