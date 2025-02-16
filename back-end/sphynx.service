@@ -1,0 +1,13 @@
+[Unit]
+Description=Sphynx File Server
+After=network.target
+
+[Service]
+User= your_user
+WorkingDirectory=/path/to/dierctory
+ExecStart=/path/to/sphynx/sphynx_venv/bin/python3 -m sphynx_api
+Restart=always
+Environment="PYTHONPATH=/python/to/sphynx"
+
+[Install]
+WantedBy=multi-user.target
