@@ -1,8 +1,5 @@
 # Sphynx File Server
 
-Sphynx is a **self-hosted file server** that provides a **REST API** for managing files on an **Ubuntu server with Flask**.  
-It supports **file uploads, downloads, previews, folder management, searching, sorting, and ZIP compression**.  
-
 ## **🚀 Features**
 - 📂 **File Management**: Upload, download, rename, delete, move files  
 - 📁 **Folder Management**: Create and delete folders  
@@ -12,3 +9,12 @@ It supports **file uploads, downloads, previews, folder management, searching, s
 - 📦 **ZIP Compression**: Download folders as ZIP  
 - 📊 **Usage Statistics**: Get total files, total storage, recent uploads  
 - ⚡ **Systemd Integration**: Auto-starts as a service  
+
+## **You will need:**
+- an Ubuntu Server 
+- a Windows Client
+- or/and an Android Client
+- The service **isn't accessible on its own** if you're not inside your home network. You can work around this [using a vpn](https://www.youtube.com/watch?v=9wG6qDFcaJc&t=263s)
+
+For backend installation and testing, look in **/backend**.
+For front-end source code, look in **/frontend**
