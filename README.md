@@ -16,5 +16,5 @@
 - or/and an Android Client
 - The service **isn't accessible on its own** if you're not inside your home network. You can work around this [using a vpn](https://www.youtube.com/watch?v=9wG6qDFcaJc&t=263s)
 
-For backend installation and testing, look in **/backend**.
+For backend installation,source code and testing, look in **/backend**.
 For front-end source code, look in **/frontend**
