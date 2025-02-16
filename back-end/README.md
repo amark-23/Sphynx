@@ -91,7 +91,7 @@ sudo systemctl status sphynx
 
 ## **📌 Notes**
 - This API runs **on port `5000`** by default. Modify `sphynx_api/__main__.py` to change the port.
-- The **base storage directory** is `/mnt/externalhdd/sphynx`. Modify `config.py` if needed.
+- Modify `config.py` as needed.
 - **Ensure the firewall allows port `5000`** if accessing externally:
   ```bash
   sudo ufw allow 5000
